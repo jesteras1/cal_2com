@@ -13,5 +13,6 @@ Nombre:Jose David Esteras Enebral
 <button onclick="cube()">x^3</buton>
 <button onclick="cube()">x^2</buton>
 <button onclick="cube()">1/x</buton>
+Titulo con autor
 </body>
 </html>
